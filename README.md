@@ -2,7 +2,7 @@
 
 - Node.js allows the creation of Web servers and networking tools using JavaScript and a collection of "modules" that handle various core functionalities.
 
-- e.js is primarily used to build network programs such as Web servers.
+- Node.js is primarily used to build network programs such as Web servers.
 
 - Node.js brings event-driven programming to web servers, enabling development of fast web servers in JavaScript.
 
@@ -21,6 +21,5 @@ Details:
 
 References:
 
-- Wikipedia
-- Youtube
-- Tutorials Point
+- [Wikipedia](https://en.wikipedia.org/wiki/Node.js)
+- [w3 Schools](https://www.w3schools.com/nodejs/nodejs_intro.asp)
