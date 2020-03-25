@@ -1,0 +1,22 @@
+{
+  "name": "packagee.json",
+  "version": "1.0.0",
+  "description": "This is my first node js application server",
+  "main": "index.js",
+  "scripts": {
+    "test": "successful"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshithavelagapudi/Node-js.git"
+  },
+  "keywords": [
+    "Hello, This is Awesome."
+  ],
+  "author": "Anshitha Velagapudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshithavelagapudi/Node-js/issues"
+  },
+  "homepage": "https://github.com/anshithavelagapudi/Node-js#readme"
+}
